@@ -43,3 +43,4 @@ I am Anirudh Emmadi, people call me Ani, currently pursuing my bachelor's degree
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aemmadi&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ajeetx)
